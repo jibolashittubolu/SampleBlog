@@ -1,2 +1,2 @@
 # SampleBlog
-A sample blog
+A sample blog.
